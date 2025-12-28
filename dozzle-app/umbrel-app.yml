@@ -1,0 +1,19 @@
+manifestVersion: 1
+
+id: zema-dozzle
+name: Dozzle
+tagline: Real-time log viewer for Docker containers
+icon: https://dozzle.dev/logo.svg
+category: Developer Tools
+
+version: "8.14.3"
+port: 8888
+path: /
+
+description: >
+  Dozzle is a lightweight real-time log viewer for Docker containers.
+
+developer: amir20
+website: https://dozzle.dev
+repo: https://github.com/amir20/dozzle
+support: https://github.com/amir20/dozzle/issues
