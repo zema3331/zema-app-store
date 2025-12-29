@@ -1,0 +1,20 @@
+manifestVersion: 1
+
+id: zema-prometheus
+name: Prometheus
+tagline: Monitoring system & time series database
+icon: https://raw.githubusercontent.com/stakater/ForecastleIcons/refs/heads/master/prometheus.png
+category: Developer Tools
+
+version: "latest"
+port: 9090
+path: ""
+
+description: >
+  Prometheus is an open-source systems monitoring and alerting toolkit that collects metrics as time series data via a pull model over HTTP,
+  stores them in its built-in time series database (TSDB), and provides PromQL for querying and alerting. [web:35][web:36]
+
+developer: Prometheus Authors
+website: https://prometheus.io 
+repo: https://github.com/prometheus/prometheus
+support: https://github.com/prometheus/prometheus/issues
