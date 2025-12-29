@@ -12,8 +12,8 @@ services:
     command:
       - --config.file=/etc/prometheus/prometheus.yml
     volumes:
-      - ./configuration/:/etc/prometheus/
-      - ./data/:/prometheus/
+      - ${APP_DATA_DIR}/configuration/prometheus.yml:/etc/prometheus/prometheus.yml:ro/configuration/:/etc/prometheus/
+      - ${APP_DATA_DIR}/data/:/prometheus/
     restart: unless-stopped
     environment:
       TZ: "Europe/Moscow"
