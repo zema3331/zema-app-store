@@ -26,4 +26,5 @@ Community App Store (магазин приложений сообщества) �
 
 6) Подключите ваш Community App Store в umbrelOS: добавьте URL вашего GitHub-репозитория
    через интерфейс umbrelOS (пример показан в демо-видео):
-   https://user-images.githubusercontent.com/10330103/197889452-e5cd7e96-3233-4a09-b475-94b754adc7a3.mp4
+
+https://user-images.githubusercontent.com/10330103/197889452-e5cd7e96-3233-4a09-b475-94b754adc7a3.mp4
